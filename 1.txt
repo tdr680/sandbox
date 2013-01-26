@@ -1,5 +1,9 @@
+== ZERO ==
 Prvni radek
 Druhy radek
 Ctvrty (tedka treti)
 Ctvrty
 A jeste paty...
+6
+7
+8
